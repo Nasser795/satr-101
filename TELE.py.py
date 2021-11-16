@@ -27,4 +27,4 @@ elif user_in.isdigit():      # نتأكد من نوع المدخلات هل هي
 else:
     print('This is invalid number')
 
-input('Press ENTER to exit')
+#input('Press ENTER to exit')                      # في حال تشغيله عن طريق CMD
